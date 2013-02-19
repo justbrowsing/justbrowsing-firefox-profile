@@ -38,14 +38,14 @@ Bookmarks:
 * @myTV:	http://at-my.tv
 * Playlist:	http://www.playlist.com
 * Shopping:	[Folder]
-	** Slickdeals:		http://slickdeals.net
-	** Amazon:		http://www.amazon.com
-	** Amazon Camel:	http://camelcamelcamel.com
-	** Newegg:		http://www.newegg.com
-	** Newegg Camel:	http://www.camelegg.com
-	** eBay:		http://www.ebay.com
-	** Monoprice:		http://www.monoprice.com
-	** Dealextreme:		https://dx.com
+	* * Slickdeals:		http://slickdeals.net
+	* * Amazon:		http://www.amazon.com
+	* * Amazon Camel:	http://camelcamelcamel.com
+	* * Newegg:		http://www.newegg.com
+	* * Newegg Camel:	http://www.camelegg.com
+	* * eBay:		http://www.ebay.com
+	* * Monoprice:		http://www.monoprice.com
+	* * Dealextreme:	https://dx.com
 * Down?:	http://www.isup.me
 * Places:	chrome://browser/content/places/places.xul
 
