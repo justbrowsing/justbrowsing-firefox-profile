@@ -1,0 +1,25 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Slickdeals</os:ShortName>
+<os:Description>Slickdeals</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACbklEQVQ4jZWTS0hUYRTHj/miRYuQIAhahhC1cdFCM62FlGhBuIoWtYgoTL3SQ5hBI6gpIdBUsFRQKEIoonR83KsxqCPi5Iu0yWkyH5PvaXw/ujO/FupNU6L+cBYf55zf+XP4jshmQZC5uv+qyeo8mVJJsPy3btScEkVDFA3JqBuTDLVQUq0nRNhl1MTlhMQU9eyNKnaEbgekq8UGYHOkqZ6k0o68YsdgzPTc4nkAXdc9W5vjckIkrXZyR8CmsDQMrAB4fEt1WwFpNQkbRVlVLpJKunYE2L54Abj5rp/Y/PbLRv+RR/bSA3ebeNExiu4PMDa7zKWXvey+3cjT1hFGfMvkNw0xv6IDcLzAQXSeI15ERCohLCyz3vt5YgGAtsEZvAurXH/lpLpvEoCf/gAbWtX9hN9SR43l5ja6E8+VdQPgnlpEFI0Ik42kki4AphZWOXivmbI2DwAfhmdILu0sMOwfzW2piC1wGBPuVLkQReN1zzgADxu+IYpGRft3AAqbhylpGYoVEZFUqzVc0lSfKBpFLcMA+AMBIi12JudXAEgo7kAUDef4PAAXyrs9sG7/zLPOs3uy3iOKRnCmxvjcWlNKeY/h6NADO/vMNuOtvHHmGfbjixxK58gs1k9TlLV58AcCeHzLRJhs+ANrizPXuClftz+1sEpJ62C0AajuHdiv63qtrus6QMfILFGP2xBFo9HlNaYOepcAqO+bGAKCtv1iIPvH4nLqYYs9QdLVUslQpyNMNjLf9nPx+UciLXaya93cV78++ds5/dYVR6ikq4mSXl+xseS1u6g79m+ATTqdbw03VbmSzVWua3/mfgEhdRQdI/gdVwAAAABJRU5ErkJggg==</os:Image>
+<SearchForm>http://slickdeals.net/</SearchForm>
+<os:Url type="text/html" method="GET" template="http://slickdeals.net/newsearch.php">
+  <os:Param name="forumchoice%5B%5D" value="4"/>
+  <os:Param name="forumchoice%5B%5D" value="9"/>
+  <os:Param name="forumchoice%5B%5D" value="10"/>
+  <os:Param name="forumchoice%5B%5D" value="13"/>
+  <os:Param name="forumchoice%5B%5D" value="25"/>
+  <os:Param name="forumchoice%5B%5D" value="30"/>
+  <os:Param name="forumchoice%5B%5D" value="38"/>
+  <os:Param name="forumchoice%5B%5D" value="39"/>
+  <os:Param name="forumchoice%5B%5D" value="41"/>
+  <os:Param name="forumchoice%5B%5D" value="44"/>
+  <os:Param name="forumchoice%5B%5D" value="53"/>
+  <os:Param name="forumchoice%5B%5D" value="54"/>
+  <os:Param name="q" value="{searchTerms}"/>
+  <os:Param name="showposts" value="0"/>
+  <os:Param name="archive" value="0"/>
+  <os:Param name="firstonly" value="1"/>
+</os:Url>
+</SearchPlugin>

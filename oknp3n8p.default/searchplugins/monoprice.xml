@@ -1,0 +1,10 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Monoprice</os:ShortName>
+<os:Description>Monoprice</os:Description>
+<os:InputEncoding>ISO-8859-1</os:InputEncoding>
+<os:Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADmElEQVQ4jWXM/U/UdQDA8c//0ODg7gv3IDoHYwhCoW7OTBBLJsGQKEyRQ0Ce7oEVD8XD0S89kRtComamDEHu8OThvOOZSQsiHoRBaWm5Co4nuY0xCO/u3Q+5tdYP7+3900sIIcSz5eX4nrr6EUelyeWoqnbZq6pd1kqTy1xe5TKXV7mslSbXvapq151Kk8tSXunqu1g/ura4mCiEEGJtcSXxQmzcdlNiMt/lFjCSV0hnTh7t2bn/qSMnl57z+QyfL6Ap6SSXYuK2V53OFOGorZu5euQog+mZzGhzmNHmMJJxjtGMLMYyspjUZvN9RhZDZzOxp2sZSM+kN13L1dhj2D+r+VE0l5R5bh4/wVhKGrPZeSx12liyO5jL1+NITuVBahpzH1ay3NfPk+YWJk+dYSTlHb6JT+CG3rgtWopLMB+O4ds3Etj4+Rf+WnOxubLC1oKT/hNJzJzLwb21xcYff+Le3GS5u5eRY/E0H47hms7gEe0lZdyOjGbgeALe58+ZqDAxVWjE6/ViTz3FqOkjAIZjX+dxUzNbTifDBw7RErWPVkORR7SXlHItaDcDh2Lwut1M6IoYP50BwN34N7lfUgZAV3gUv135ii2nk/6QcBp3BmM2FHlEe3EpdX4S/VH78brdTGfn0Z+UAoD5taMMGorwer00anbxtO4SW/MLdCuDuO4fiFlvfAH4KuiL3IfX7WY2Ow9raATbGxssjk/gevIrz356yE3/AJ7WffkPELiDyzLpX+CyTMK+Nxqv2814Vi4OSYMtOZXfB4Z43NFJ84GD2CQ1D2vr2Jyfxxag4YpMwqI3ekTz+8XUyxRYA4N4VGHi3p4o2hQquiUNFrkKs1yJXVJzR6Gk90gcswUG7spVfO0XgMVQ5BGN7xXzsY8f7QEa+oLDuB/+Mp27QmjbHYotNAJbaATWsL10hIQxtCeSwYhX6FLu5LpfADd0eo8wF5d6Kl6SYQkOY7rAwPgZLdPabB5k5TKVk89YUgpzJR8wk5XLD6fPMvZWGt2BO7jgK+dWod4temsvztX4+FPrq8AuaXBIamySGptCjV3SYJfUdClUdClU2CU1fZKGVrmSGh9/HJ/WPBKrzqWUhoOvbjfIFDT5B2JVqLDIlVjkSlrlSm6/eLNciVWu4pZ/IA0yBZ9E73cvLiy8K4QQYnVh4WRPzReTbTrjepvOsN6hN/6vdr1xvVVnWLfoDOvdn9dMLc/Pvy2EEH8DGWp/BWFM6BsAAAAASUVORK5CYII=</os:Image>
+<SearchForm>http://www.monoprice.com/</SearchForm>
+<os:Url type="text/html" method="GET" template="http://www.monoprice.com/products/search.asp">
+  <os:Param name="keyword" value="{searchTerms}"/>
+</os:Url>
+</SearchPlugin>

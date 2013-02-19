@@ -1,0 +1,8 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>OneLook Dictionary Search</os:ShortName>
+<os:Description>Search 900+ dictionaries at once.  Find words with wildcard search or by meaning.</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAACAAACAgAAAAACAAIAAgAAAgIAAwMDAAICAgAD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wD///8AAAAAAAAAAAAO7u7u7u7u4A7u7u7u7u7gDu7u7u7u7uAO7u7u7u7u4A4OHuEe4eDgDgDh4R4eAOAO4A4REeAO4A7uAOEeAO7gDu7gARAO7uAO7u4AAO7u4A7u7uAO7u7gDu7u7u7u7uAO7u7u7u7u4A7u7u7u7u7gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</os:Image>
+<os:Url type="text/html" method="GET" template="http://www.onelook.com/?w={searchTerms}&amp;ls=a&amp;loc=2osdf">
+</os:Url>
+</SearchPlugin>

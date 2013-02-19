@@ -1,0 +1,13 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Newegg</os:ShortName>
+<os:Description>Newegg</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACSklEQVQ4jYWTTUiUYRRGHzVnTM0SEc2FK51yZVoJ1dIgCVQkrFxIljVQKP2IIRGhRaYZagZlDoWTQaAVqWkbW2SgQSWKSJKIoTLiqGj5k+g4p8U3IaXihcu7OufeB+4rbVLUy4caWajRYWp0BJvCNmMM8KF2Yfd/QJtlnC/x0BsH3VHQtsNFrY+NQvmtD5YpAHtQJZ0HlpnKgZl8mLkCU+dgPBV+xMPHEKhWxVr4viJpCOth+AT8ugG/q2DRBovVMF8K05fAkQJdFqg1zVEl8ypcokhawx04UuFngQG5XoG7GVaaYOk5zJWC8yx07wN7IBRrtwHnykytuYeheJjMhLliWH4B7tbVXmk0pBMX4etBsAVBiWL/Ti+gKxhGEmAyy1jXVe+BWzxvsxHHkQvtCVAZ4KZAwcIqX57KyfftMLwHJjJgthCW7OB+u7qB6yXMVsBAJjTGwE1TvzE9T3t5I+j3g6FoGEuC6VyYv2dIXPVGnIVHMJYPnYnwOAzydMsQXFAyzYI+bxgMhZF4GE8zJLOFRpzZ2+C8Aj0p0BAN180LWLXTEGTrEHWCLkG/CQYjDMlYEjgzwHkKRk9CTyI0WaAsEM57pksSWfKjSNO890j6TDAQCoNRMBgL3+LgUwy8joByf7B6fSZdpn8PKFtFVAtaBB8EHd7QYYb2QGjdBs+2wp0tYPUaIEvhay/QKl+y9I67gieCOk/bBOWCa4JMtZOmkI0/T7p8OK6rWDXKZUGeIEdwWr0c0xkk7w3hNbIURZGs/RxdZ93/6g+CXA5F3XmU0QAAAABJRU5ErkJggg==</os:Image>
+<SearchForm>http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&amp;N=8000&amp;IsNodeId=1&amp;ShowDeactivatedMark=False&amp;nm_mc=AFC-C8Junction&amp;cm_mmc=AFC-C8Junction-_-na-_-na-_-na&amp;AID=10446076&amp;PID=4166869&amp;SID=sy7o4wuffs8q</SearchForm>
+<os:Url type="text/html" method="GET" template="http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&amp;N=8000&amp;IsNodeId=1&amp;ShowDeactivatedMark=False&amp;nm_mc=AFC-C8Junction&amp;cm_mmc=AFC-C8Junction-_-na-_-na-_-na&amp;AID=10446076&amp;PID=4166869&amp;SID=sy7o4wuffs8q&amp;">
+  <os:Param name="SrchInDesc" value="{searchTerms}"/>
+  <os:Param name="Pagesize" value="20"/>
+  <os:Param name="Order" value="8"/>
+  <os:Param name="dailyDealLayout" value=""/>
+</os:Url>
+</SearchPlugin>

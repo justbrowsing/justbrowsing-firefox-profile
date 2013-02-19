@@ -1,0 +1,39 @@
+content	toolbar-button	jar:chrome/tbutton.jar!/content/
+skin	toolbar-button	classic/1.0	jar:chrome/tbutton.jar!/skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://toolbar-button/skin/button.css
+content	toolbar-button-root	./
+skin	toolbar-button-root	classic/1.0	./
+override	chrome://toolbar-button/skin/icon.png	chrome://toolbar-button-root/skin/icon.png
+resource	toolbar-button	jar:chrome/tbutton.jar!/resources/
+overlay	chrome://toolbar-button/content/options.xul	chrome://toolbar-button/content/calendar-options.xul	application={718e30fb-e89b-41dd-9da7-e25a45638b28}
+overlay	chrome://toolbar-button/content/options.xul	chrome://toolbar-button/content/messenger-options.xul	application={3550f703-e582-4d05-9a08-453d09bdfdc6}
+overlay	chrome://toolbar-button/content/options.xul	chrome://toolbar-button/content/messenger-options.xul	application=postbox@postbox-inc.com
+overlay	chrome://toolbar-button/content/options.xul	chrome://toolbar-button/content/browser-options.xul	application={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+overlay	chrome://toolbar-button/content/options.xul	chrome://toolbar-button/content/browser-options.xul	application={a463f10c-3994-11da-9945-000d60ca027b}
+overlay	chrome://messenger/content/messengercompose/messengercompose.xul	chrome://toolbar-button/content/compose.xul
+overlay	chrome://messenger/content/messageWindow.xul	chrome://toolbar-button/content/read.xul
+overlay	chrome://lightning/content/messenger-overlay-toolbar.xul	chrome://toolbar-button/content/lightning.xul
+overlay	chrome://messenger/content/messenger.xul	chrome://toolbar-button/content/mail.xul
+overlay	chrome://calendar/content/calendar.xul	chrome://toolbar-button/content/calendar.xul
+overlay	chrome://sunbird/content/calendar.xul	chrome://toolbar-button/content/calendar.xul
+overlay	chrome://browser/content/browser.xul	chrome://toolbar-button/content/browser.xul
+overlay	chrome://toolbar-button/content/options.xul	chrome://toolbar-button-root/content/translate-options.xul
+overlay	chrome://global/content/commonDialog.xul	chrome://toolbar-button/content/commonDialog.xul
+locale	toolbar-button	el	jar:chrome/tbutton.jar!/locale/el/
+locale	toolbar-button	es-AR	jar:chrome/tbutton.jar!/locale/es-AR/
+locale	toolbar-button	pl	jar:chrome/tbutton.jar!/locale/pl/
+locale	toolbar-button	pt-BR	jar:chrome/tbutton.jar!/locale/pt-BR/
+locale	toolbar-button	it-IT	jar:chrome/tbutton.jar!/locale/it-IT/
+locale	toolbar-button	ro	jar:chrome/tbutton.jar!/locale/ro/
+locale	toolbar-button	en-US	jar:chrome/tbutton.jar!/locale/en-US/
+locale	toolbar-button	ja-JP	jar:chrome/tbutton.jar!/locale/ja-JP/
+locale	toolbar-button	sv-SE	jar:chrome/tbutton.jar!/locale/sv-SE/
+locale	toolbar-button	fi-FI	jar:chrome/tbutton.jar!/locale/fi-FI/
+locale	toolbar-button	ru-RU	jar:chrome/tbutton.jar!/locale/ru-RU/
+locale	toolbar-button	sk-SK	jar:chrome/tbutton.jar!/locale/sk-SK/
+locale	toolbar-button	ko-KR	jar:chrome/tbutton.jar!/locale/ko-KR/
+locale	toolbar-button	fr	jar:chrome/tbutton.jar!/locale/fr/
+locale	toolbar-button	de	jar:chrome/tbutton.jar!/locale/de/
+locale	toolbar-button	zh-CN	jar:chrome/tbutton.jar!/locale/zh-CN/
+locale	toolbar-button	es-ES	jar:chrome/tbutton.jar!/locale/es-ES/
+locale	toolbar-button	nl	jar:chrome/tbutton.jar!/locale/nl/
