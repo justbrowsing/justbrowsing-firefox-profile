@@ -15,7 +15,8 @@ Extensions:
 * Download Manager Tweak: https://addons.mozilla.org/en-US/firefox/addon/download-manager-tweak/
 * Element Hiding Helper for Adblock Plus: https://addons.mozilla.org/en-US/firefox/addon/elemhidehelper/
 * Menu Editor: https://addons.mozilla.org/en-US/firefox/addon/menu-editor/
-* Offline QR generator: https://addons.mozilla.org/en-US/firefox/addon/offline-qr-generator/
+* More In Content UI: https://addons.mozilla.org/en-US/firefox/addon/more-in-content-ui/
+* <del>Offline QR generator: https://addons.mozilla.org/en-US/firefox/addon/offline-qr-generator/</del>
 * PDF Viewer [pdf.js]: https://addons.mozilla.org/en-US/firefox/addon/pdfjs/
 * Screengrab (fix version): https://addons.mozilla.org/en-US/firefox/addon/screengrab-fix-version/
 * Tab Mix Plus: https://addons.mozilla.org/en-US/firefox/addon/tab-mix-plus/
