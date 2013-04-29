@@ -32,7 +32,7 @@ Extensions:
 ----------------------------
 Bookmarks:
 ========================
-* Recent:	[Most Visited]
+* <del> Recent:	[Most Visited]</del>
 * Tips:		http://www.google.com/insidesearch/tipstricks/basics.html
 * Search:	https://duckduckgo.com
 * Gmail:	https://mail.google.com
