@@ -8,6 +8,11 @@ Firefox profile for JustBrowsing:
 * Configured with useful add-ons
 
 ----------------------------
+Screenshot:
+========================
+![Alt text](justbrowsing-firefox_apng.png "Firefox screenshot")
+
+----------------------------
 Extensions:
 ========================
 * Adblock Edge: https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/
