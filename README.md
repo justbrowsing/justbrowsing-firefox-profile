@@ -9,6 +9,7 @@ Firefox profile for JustBrowsing:
 
 ----------------------------
 Extensions:
+========================
 * Adblock Edge: https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/
 * Adblock Plus Pop-up Addon: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus-pop-up-addon/
 * Add to Search Bar: https://addons.mozilla.org/en-US/firefox/addon/add-to-search-bar/
@@ -30,6 +31,7 @@ Extensions:
 
 ----------------------------
 Bookmarks:
+========================
 * Recent:	[Most Visited]
 * Tips:		http://www.google.com/insidesearch/tipstricks/basics.html
 * Search:	https://duckduckgo.com
