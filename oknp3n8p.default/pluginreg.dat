@@ -8,31 +8,31 @@ Arch:x86-gcc3:$
 libnpgoogletalk.so:$
 /opt/google/talkplugin/libnpgoogletalk.so:$
 :$
-1364194810000:0:5:$
-Version: 3.16.0.0:$
+1370342595000:0:1:$
+Version: 3.19.1.0:$
 Google Talk Plugin:$
 1
 0:application/googletalk:Google Talk Plugin:googletalk:$
 libnpo1d.so:$
 /opt/google/talkplugin/libnpo1d.so:$
 :$
-1364194810000:0:5:$
-Version: 3.16.0.0:$
+1370342595000:0:1:$
+Version: 3.19.1.0:$
 Google Talk Plugin Video Renderer:$
 1
 0:application/o1d:Google Talk Plugin Video Renderer:o1d:$
 libnpgtpo3dautoplugin.so:$
 /opt/google/talkplugin/libnpgtpo3dautoplugin.so:$
 :$
-1364194810000:0:5:$
-Google Talk Plugin Video Accelerator version:0.1.44.24:$
+1370342595000:0:1:$
+Google Talk Plugin Video Accelerator version:0.1.44.28:$
 Google Talk Plugin Video Accelerator:$
 1
 0:application/vnd.gtpo3d.auto:O3D MIME::$
 libflashplayer.so:$
 /usr/lib/mozilla/plugins/libflashplayer.so:$
-:$
-1363194072000:0:5:$
+11,2,202,285:$
+1368563828000:0:5:$
 Shockwave Flash 11.2 r202:$
 Shockwave Flash:$
 2

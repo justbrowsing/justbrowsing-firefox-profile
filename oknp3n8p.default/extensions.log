@@ -10,3 +10,98 @@
 2013-01-14 19:31:33 ERROR addons.manager: Exception calling provider startup: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [mozIStorageStatement.execute]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_rollbackTransaction :: line 461"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:461
 2013-01-14 19:42:09 ERROR addons.xpi-utils: 3 outstanding transactions, rolling back. at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:843
 2013-01-14 19:42:09 ERROR addons.manager: Exception calling provider shutdown: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [mozIStorageStatement.execute]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_rollbackTransaction :: line 461"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:461
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 13: database or disk is full at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error emptying database. Attempting to continue repopulating database at resource://gre/modules/AddonRepository.jsm:1931
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-17 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-17 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modul2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 13: database or disk is full at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error emptying database. Attempting to continue repopulating database at resource://gre/modules/AddonRepository.jsm:1931
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-18 21:48:17 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-18 21:48:17 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 13: database or disk is full at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error emptying database. Attempting to continue repopulating database at resource://gre/modules/AddonRepository.jsm:1931
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://gre/modules/AddonRepository.jsm:1556
+2013-04-19 21:48:18 ERROR addons.repository: Error inserting add-ons into database. Attempting to continue. at resource://gre/modules/AddonRepository.jsm:2055
+2013-04-19 21:48:18 ERROR addons.repository: Async SQL error 19: column id is not unique at resource://2013-04-20 22:06:17 ERROR addons.manager: Exception calling provider getAddonsByTypes: [Exception... "Component returned failure code: 0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE) [nsIPrefService.savePrefFile]"  nsresult: "0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_openConnection :: line 612"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:612
+2013-04-20 22:11:33 ERROR addons.manager: Exception calling provider getAddonsByTypes: [Exception... "Component returned failure code: 0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE) [nsIPrefService.savePrefFile]"  nsresult: "0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_openConnection :: line 612"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:612
+2013-04-20 22:16:24 ERROR addons.manager: Exception calling provider getAddonsByTypes: [Exception... "Component returned failure code: 0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE) [nsIPrefService.savePrefFile]"  nsresult: "0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_openConnection :: line 612"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:612
+2013-04-20 22:16:52 ERROR addons.xpi-utils: SQL error 13: database or disk is full at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:204
+2013-04-20 22:18:53 ERROR addons.xpi-utils: SQL error 13: database or disk is full at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:204
+2013-04-20 22:19:02 ERROR addons.xpi-utils: SQL error 13: database or disk is full at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:204
+2013-04-20 22:19:02 ERROR addons.xpi: Error processing file changes: [Exception... "Component returned failure code: 0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE) [mozIStorageStatement.execute]"  nsresult: "0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: executeStatement :: line 226"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:226
+2013-04-20 22:19:02 ERROR addons.xpi: Error during startup file checks, rolling back any database changes: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [mozIStorageStatement.execute]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_commitTransaction :: line 442"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:442
+2013-04-20 22:19:02 ERROR addons.manager: Exception calling provider startup: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [mozIStorageStatement.execute]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_rollbackTransaction :: line 457"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:457
+2013-04-20 22:20:15 ERROR addons.xpi-utils: 1 outstanding transactions, rolling back. at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:839
+2013-04-20 22:20:15 ERROR addons.manager: Exception calling provider shutdown: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [mozIStorageStatement.execute]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_rollbackTransaction :: line 457"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:457
+2013-04-20 22:20:16 ERROR addons.xpi-utils: SQL error 13: database or disk is full at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:204
+2013-04-20 22:20:16 ERROR addons.xpi: Error processing file changes: [Exception... "Component returned failure code: 0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE) [mozIStorageStatement.execute]"  nsresult: "0x80520010 (NS_ERROR_FILE_NO_DEVICE_SPACE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: executeStatement :: line 226"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:226
+2013-04-20 22:20:16 ERROR addons.xpi: Error during startup file checks, rolling back any database changes: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [mozIStorageStatement.execute]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_commitTransaction :: line 442"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:442
+2013-04-20 22:20:16 ERROR addons.manager: Exception calling provider startup: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [mozIStorageStatement.execute]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_rollbackTransaction :: line 457"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:457
+2013-04-20 22:21:14 ERROR addons.xpi-utils: 1 outstanding transactions, rolling back. at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:839
+2013-04-20 22:21:14 ERROR addons.manager: Exception calling provider shutdown: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [mozIStorageStatement.execute]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js :: XPIDB_rollbackTransaction :: line 457"  data: no] at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:457
+2013-04-28 20:34:19 ERROR addons.xpi-utils: SQL error 13: database or disk is full at resource://gre/modules/XPIProvider.jsm -> resource://gre/modules/XPIProviderUtils.js:204

@@ -9,13 +9,13 @@ SHA1-Digest: f4fLWenhLPDaqibjPhnbrASyXJw=
 
 Name: chrome/wot.jar
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: TzgmacufM8OLz+lCBgxY6A==
-SHA1-Digest: TxP0f1FB5vzaTG7dnA1mLuTT6Bw=
+MD5-Digest: IxN+CskSeFNG+K6lazQ34w==
+SHA1-Digest: a+4MkW0zjg0Trxf5fJb9enWxzco=
 
 Name: install.rdf
 Digest-Algorithms: MD5 SHA1
-MD5-Digest: 7/o7S6wMtd7NrbhOjZnbng==
-SHA1-Digest: 9e1H9UlvYes58QnTui6UqL2YhwA=
+MD5-Digest: et98gxuXfh3Mi1LmDEF+wg==
+SHA1-Digest: /OJEC9l+XnOB7mLErDieHRzV4Ho=
 
 Name: COPYING
 Digest-Algorithms: MD5 SHA1
