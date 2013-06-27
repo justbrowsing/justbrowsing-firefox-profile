@@ -10,7 +10,7 @@ Firefox profile for JustBrowsing:
 ----------------------------
 Screenshot:
 ========================
-![Alt text](justbrowsing-firefox_apng.png "Firefox screenshot")
+![Alt text](justbrowsing-firefox.gif "Firefox screenshot")
 
 ----------------------------
 Extensions:
