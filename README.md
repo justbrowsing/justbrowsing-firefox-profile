@@ -44,7 +44,7 @@ Bookmarks:
 * IMO:		https://imo.im
 * Youtube:	http://www.youtube.com
 * IFTTT:	https://ifttt.com/wtf
-* Wolfram:	http://wwww.wolframalpha.com
+* Wolfram:	http://www.wolframalpha.com
 * Down?:	http://www.isup.me
 * Art:	[Folder]
 	* DeviantArt:	http://www.deviantart.com
