@@ -33,6 +33,7 @@ Extensions:
 * WOT: https://addons.mozilla.org/en-US/firefox/addon/wot-safe-browsing-tool/
 * [built-in PDF Viewer]
 * [external Adobe Flash plugin]
+* [external GoogleTalk/Hangouts plugin]
 
 ----------------------------
 Bookmarks:
