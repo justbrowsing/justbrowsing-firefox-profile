@@ -4,6 +4,7 @@ resource    wot-base-dir jar:chrome/wot.jar!/content/
 overlay	chrome://browser/content/browser.xul	chrome://wot/content/overlay.xul
 overlay	chrome://navigator/content/navigatorOverlay.xul	chrome://wot/content/overlay.xul
 locale	wot	en-US	jar:chrome/wot.jar!/locale/en-US/
+locale	wot	ru-RU	jar:chrome/wot.jar!/locale/ru-RU/
 locale	wot	cs-CZ	jar:chrome/wot.jar!/locale/cs-CZ/
 locale	wot	de-DE	jar:chrome/wot.jar!/locale/de-DE/
 locale	wot	fi-FI	jar:chrome/wot.jar!/locale/fi-FI/
@@ -13,7 +14,6 @@ locale	wot	it-IT	jar:chrome/wot.jar!/locale/it-IT/
 locale	wot	fr-FR	jar:chrome/wot.jar!/locale/fr-FR/
 locale	wot	pt-BR	jar:chrome/wot.jar!/locale/pt-BR/
 locale	wot	es-ES	jar:chrome/wot.jar!/locale/es-ES/
-locale	wot	ru-RU	jar:chrome/wot.jar!/locale/ru-RU/
 locale	wot	ja-JP	jar:chrome/wot.jar!/locale/ja-JP/
 locale	wot	ko-KR	jar:chrome/wot.jar!/locale/ko-KR/
 locale	wot	zh-CN	jar:chrome/wot.jar!/locale/zh-CN/
