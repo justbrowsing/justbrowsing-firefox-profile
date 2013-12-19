@@ -1,0 +1,46 @@
+overlay	chrome://browser/content/browser.xul	chrome://googlepreview/content/browserOverlay.xul
+content	googlepreview	jar:chrome/googlepreview.jar!/content/googlepreview/
+
+locale	googlepreview	bg-BG	jar:chrome/googlepreview.jar!/locale/bg-BG/
+
+locale	googlepreview	bn-IN	jar:chrome/googlepreview.jar!/locale/bn-IN/
+
+locale	googlepreview	cs-CZ	jar:chrome/googlepreview.jar!/locale/cs-CZ/
+
+locale	googlepreview	da-DK	jar:chrome/googlepreview.jar!/locale/da-DK/
+
+locale	googlepreview	de-DE	jar:chrome/googlepreview.jar!/locale/de-DE/
+
+locale	googlepreview	en-US	jar:chrome/googlepreview.jar!/locale/en-US/
+
+locale	googlepreview	es-ES	jar:chrome/googlepreview.jar!/locale/es-ES/
+
+locale	googlepreview	fr-FR	jar:chrome/googlepreview.jar!/locale/fr-FR/
+
+locale	googlepreview	hu-HU	jar:chrome/googlepreview.jar!/locale/hu-HU/
+
+locale	googlepreview	it-IT	jar:chrome/googlepreview.jar!/locale/it-IT/
+
+locale	googlepreview	ja-JP	jar:chrome/googlepreview.jar!/locale/ja-JP/
+
+locale	googlepreview	ko-KR	jar:chrome/googlepreview.jar!/locale/ko-KR/
+
+locale	googlepreview	nl-NL	jar:chrome/googlepreview.jar!/locale/nl-NL/
+
+locale	googlepreview	pl-PL	jar:chrome/googlepreview.jar!/locale/pl-PL/
+
+locale	googlepreview	pt-BR	jar:chrome/googlepreview.jar!/locale/pt-BR/
+
+locale	googlepreview	pt-PT	jar:chrome/googlepreview.jar!/locale/pt-PT/
+
+locale	googlepreview	ru-RU	jar:chrome/googlepreview.jar!/locale/ru-RU/
+
+locale	googlepreview	sk-SK	jar:chrome/googlepreview.jar!/locale/sk-SK/
+
+locale	googlepreview	tr-TR	jar:chrome/googlepreview.jar!/locale/tr-TR/
+
+locale	googlepreview	uk-UA	jar:chrome/googlepreview.jar!/locale/uk-UA/
+
+locale	googlepreview	zh-CN	jar:chrome/googlepreview.jar!/locale/zh-CN/
+
+locale	googlepreview	zh-TW	jar:chrome/googlepreview.jar!/locale/zh-TW/

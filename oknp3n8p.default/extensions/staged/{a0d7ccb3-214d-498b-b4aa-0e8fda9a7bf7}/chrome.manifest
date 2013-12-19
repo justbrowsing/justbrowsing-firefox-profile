@@ -1,0 +1,24 @@
+content     wot    jar:chrome/wot.jar!/content/
+content     wot    jar:chrome/wot.jar!/content/ contentaccessible=yes
+resource    wot-base-dir jar:chrome/wot.jar!/content/
+overlay	chrome://browser/content/browser.xul	chrome://wot/content/overlay.xul
+overlay	chrome://navigator/content/navigatorOverlay.xul	chrome://wot/content/overlay.xul
+locale	wot	en-US	jar:chrome/wot.jar!/locale/en-US/
+locale	wot	ru-RU	jar:chrome/wot.jar!/locale/ru-RU/
+locale	wot	cs-CZ	jar:chrome/wot.jar!/locale/cs-CZ/
+locale	wot	de-DE	jar:chrome/wot.jar!/locale/de-DE/
+locale	wot	fi-FI	jar:chrome/wot.jar!/locale/fi-FI/
+locale	wot	pl-PL	jar:chrome/wot.jar!/locale/pl-PL/
+locale	wot	sv-SE	jar:chrome/wot.jar!/locale/sv-SE/
+locale	wot	it-IT	jar:chrome/wot.jar!/locale/it-IT/
+locale	wot	fr-FR	jar:chrome/wot.jar!/locale/fr-FR/
+locale	wot	pt-BR	jar:chrome/wot.jar!/locale/pt-BR/
+locale	wot	es-ES	jar:chrome/wot.jar!/locale/es-ES/
+locale	wot	ja-JP	jar:chrome/wot.jar!/locale/ja-JP/
+locale	wot	ko-KR	jar:chrome/wot.jar!/locale/ko-KR/
+locale	wot	zh-CN	jar:chrome/wot.jar!/locale/zh-CN/
+locale	wot	zh-TW	jar:chrome/wot.jar!/locale/zh-TW/
+locale	wot	uk-UA	jar:chrome/wot.jar!/locale/uk-UA/
+locale	wot	tr-TR	jar:chrome/wot.jar!/locale/tr-TR/
+skin	wot	classic/1.0	jar:chrome/wot.jar!/skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://wot/skin/toolbar.css

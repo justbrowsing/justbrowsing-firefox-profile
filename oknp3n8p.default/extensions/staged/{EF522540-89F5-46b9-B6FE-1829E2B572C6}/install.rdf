@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+<Description about="urn:mozilla:install-manifest">
+	<em:id>{EF522540-89F5-46b9-B6FE-1829E2B572C6}</em:id>
+	<em:version>6.8</em:version>
+	<em:type>2</em:type>
+	<em:unpack>true</em:unpack>
+	<em:targetApplication>
+		<Description>
+			<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+			<em:minVersion>2.0</em:minVersion>
+			<em:maxVersion>28.0</em:maxVersion>
+		</Description>
+	</em:targetApplication>
+
+	<em:name>SearchPreview</em:name>
+	<em:description>Inserts web site previews in Google, Yahoo and Bing search results.</em:description>
+	<em:creator>Prevoow UG u. Co. KG</em:creator>
+	<em:homepageURL>http://searchpreview.de/</em:homepageURL>
+  <em:iconURL>chrome://googlepreview/content/sp_32.png</em:iconURL>	
+  <em:optionsURL>chrome://googlepreview/content/options.xul</em:optionsURL>	
+</Description>
+
+</RDF>
