@@ -4,7 +4,7 @@
 		<em:id>{a0d7ccb3-214d-498b-b4aa-0e8fda9a7bf7}</em:id>
 		<em:unpack>true</em:unpack>
 		<em:name>WOT</em:name>
-		<em:version>20131030</em:version>
+		<em:version>20131118</em:version>
 		<em:description>Web of trust.</em:description>
 		<em:creator>WOT Services Oy</em:creator>
 		<em:homepageURL>http://www.mywot.com/</em:homepageURL>
