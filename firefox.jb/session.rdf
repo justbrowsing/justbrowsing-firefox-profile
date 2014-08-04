@@ -4,13 +4,6 @@
   <RDF:Description RDF:about="rdf://tabmix/closedSession/previoustolastSession">
     <NC:session RDF:resource="rdf://tabmix/closed2/window"/>
   </RDF:Description>
-  <RDF:Description RDF:about="rdf://tabmix/closedSession/lastSession">
-    <NC:session RDF:resource="rdf://tabmix/closed1/window"/>
-  </RDF:Description>
-  <RDF:Description RDF:about="rdf://tabmix/closedSession/thisSession"
-                   NC:status="stopped">
-    <NC:session RDF:resource="rdf://tabmix/closed0/window"/>
-  </RDF:Description>
   <RDF:Description RDF:about="rdf://tabmix/closedSession/crashedsession">
     <NC:session RDF:resource="rdf://tabmix/closed3/window"/>
   </RDF:Description>
@@ -20,4 +13,11 @@
     <RDF:li RDF:resource="rdf://tabmix/closedSession/previoustolastSession"/>
     <RDF:li RDF:resource="rdf://tabmix/closedSession/crashedsession"/>
   </RDF:Seq>
+  <RDF:Description RDF:about="rdf://tabmix/closedSession/thisSession"
+                   NC:status="stopped">
+    <NC:session RDF:resource="rdf://tabmix/closed0/window"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="rdf://tabmix/closedSession/lastSession">
+    <NC:session RDF:resource="rdf://tabmix/closed1/window"/>
+  </RDF:Description>
 </RDF:RDF>
